@@ -1,1 +1,1 @@
-{"version":3,"names":[],"mappings":"","sources":["foo/index.js"],"sourcesContent":["module.exports = \"Hello Foo\";\n"],"file":"foo/index.js"}
+{"version":3,"names":[],"mappings":"","sources":["foo/index.js"],"sourcesContent":["module.exports = \"Hello Foo\";\n"],"file":"index.js","sourceRoot":"../../src/"}
